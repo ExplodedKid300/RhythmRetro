@@ -12,5 +12,5 @@ Controls:<br>
     Move paddle to top/bottom of screen - Select Track<br>
     Left Swipe - Select track, hit incoming dot to confirm<hr>
 
-<a href="link" target="_blank">text</a>
+
 I've created a new rhythm game inspired by the game <a href="https://bittrip.fandom.com/wiki/BIT.TRIP_BEAT" target="_blank">BIT.TRIP BEAT</a> & <a href="https://bittrip.fandom.com/wiki/BIT.TRIP_FLUX" target="_blank">BIT.TRIP FLUX</a> by Gaijin Games. I used <a href="turbowarp.org" target="_blank">Turbowarp</a> to create it, so I will not be able to port it to Scratch as I used extensions not compatible with Scratch.
