@@ -29,4 +29,6 @@ Big Bang - Bang Bang Bang<br>
 <hr>
 Downloads through Google Drive<br>
 Version History:<br>
-<a href="https://drive.google.com/file/d/1VxSx068vrunrRbwa3DasisBlPvGn1eXg/view?usp=drive_link" target="_blank">3/31/2024: v0.5.12 ALPHA</a><br>
+<a href="https://drive.google.com/file/d/1VxSx068vrunrRbwa3DasisBlPvGn1eXg/view?usp=drive_link" target="_blank">3/31/2024: v0.5.12 ALPHA</a><hr>
+
+<a href="https://imgur.com/a/RbrCmOe" target="_blank"> Image Previews </a>
