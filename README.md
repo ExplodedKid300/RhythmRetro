@@ -14,3 +14,6 @@ Controls:<br>
 
 
 I've created a new rhythm game inspired by the game <a href="https://bittrip.fandom.com/wiki/BIT.TRIP_BEAT" target="_blank">BIT.TRIP BEAT</a> & <a href="https://bittrip.fandom.com/wiki/BIT.TRIP_FLUX" target="_blank">BIT.TRIP FLUX</a> by Gaijin Games. I used <a href="turbowarp.org" target="_blank">Turbowarp</a> to create it, so I will not be able to port it to Scratch as I used extensions not compatible with Scratch.
+<br><br>
+v0.5.12<br>
+<a href="https://drive.google.com/file/d/1VxSx068vrunrRbwa3DasisBlPvGn1eXg/view?usp=drive_link" target="_blank">Download through Google Drive here</a>
